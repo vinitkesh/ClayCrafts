@@ -1,4 +1,4 @@
-# ClayCraft
+# La. Ta Studio
 
 A vibecoded frontend for an artisanal e-commerce platform, showcasing handcrafted goods with a focus on storytelling and community. 
 

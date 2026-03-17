@@ -32,7 +32,12 @@ export function ProductCard({ product, onAddToCart, priority }: ProductCardProps
     >
       <Link href={`/product/${product.slug}`} className="block">
         <div className="relative aspect-[4/5] overflow-hidden rounded-2xl bg-[var(--clay-soft)]">
-          <motion.div whileHover={{ scale: 1.07 }} transition={{ duration: 0.35 }}>
+          <motion.div
+            className="relative h-full w-full"
+            initial={{ scale: 1 }}
+            whileHover={{ scale: 1.06 }}
+            transition={{ duration: 0.38, ease: "easeOut" }}
+          >
             <Image
               src={product.image}
               alt={product.name}

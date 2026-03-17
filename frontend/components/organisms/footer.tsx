@@ -7,7 +7,7 @@ export function Footer() {
       <div className="mx-auto grid w-full max-w-7xl gap-8 px-4 py-10 md:grid-cols-4 md:px-8">
         <div>
           <Typography as="h3" variant="eyebrow" className="text-[#8ea0b0]">
-            ClayCraft
+            La. Ta Studio
           </Typography>
           <Typography className="mt-3 text-[#d7e1ea]/85">
             Handcrafted ceramic forms for thoughtful living. Designed in India and finished in
@@ -50,7 +50,7 @@ export function Footer() {
       </div>
       <div className="border-t border-white/12 py-4">
         <div className="mx-auto flex w-full max-w-7xl flex-wrap items-center justify-between gap-2 px-4 font-sans text-xs tracking-[0.08em] text-[#8ea0b0] uppercase md:px-8">
-          <p>© 2026 ClayCraft Studio</p>
+          <p>© 2026 La. Ta Studio Studio</p>
           <p>Privacy • Terms</p>
         </div>
       </div>

@@ -33,7 +33,7 @@ export function Navbar() {
         <Link href="/" className="inline-flex items-center gap-2">
           <span className="size-2 rounded-full bg-[var(--clay-accent)]" />
           <Typography as="span" variant="muted" className="font-semibold tracking-[0.14em] uppercase">
-            ClayCraft
+            La. Ta Studio
           </Typography>
         </Link>
 

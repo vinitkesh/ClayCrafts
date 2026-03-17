@@ -17,12 +17,12 @@ export async function generateMetadata({ params }: ProductPageProps): Promise<Me
 
   if (!product) {
     return {
-      title: "Product Not Found | ClayCraft",
+      title: "Product Not Found | La. Ta Studio",
     };
   }
 
   return {
-    title: `${product.name} | ClayCraft`,
+    title: `${product.name} | La. Ta Studio`,
     description: product.summary,
   };
 }

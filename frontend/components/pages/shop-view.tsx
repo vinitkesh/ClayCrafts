@@ -36,7 +36,7 @@ export function ShopView({ products, categories }: ShopViewProps) {
     <section className="mx-auto w-full max-w-7xl px-4 py-10 md:px-8 md:py-12">
       <Typography variant="eyebrow">Collection Directory</Typography>
       <Typography as="h1" variant="title" className="mt-2">
-        Shop ClayCraft Pieces
+        Shop La. Ta Studio Pieces
       </Typography>
       <Typography className="mt-3 max-w-xl">
         Browse handcrafted ceramics by category and discover the piece that fits your space.

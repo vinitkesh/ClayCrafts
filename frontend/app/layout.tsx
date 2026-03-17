@@ -5,9 +5,9 @@ import { CartProvider } from "@/components/providers/cart-provider";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "ClayCraft | Handmade Ceramics",
+  title: "La. Ta Studio | Handmade Ceramics",
   description:
-    "ClayCraft is an editorial ceramic storefront featuring handcrafted pottery for modern spaces.",
+    "La. Ta Studio is an editorial ceramic storefront featuring handcrafted pottery for modern spaces.",
 };
 
 export default function RootLayout({

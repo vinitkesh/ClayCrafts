@@ -1,4 +1,4 @@
-# ClayCraft Frontend Execution Plan
+# La. Ta Studio Frontend Execution Plan
 
 ## 1. Component Architecture
 - **Atom Level:** Custom Button component (variants: Solid, Ghost, Link), Typography wrapper, Icon wrapper.
