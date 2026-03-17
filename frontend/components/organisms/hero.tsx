@@ -34,7 +34,7 @@ export function Hero() {
         <MotionReveal className="md:col-span-7" delay={0.1}>
           <div className="relative aspect-[4/3] overflow-hidden rounded-[2rem] border border-[var(--clay-border)] bg-[var(--clay-soft)]">
             <Image
-              src="/images/hero/hero-vase.svg"
+              src="/images/hero/BREAD1.png"
               alt="Clay vase in warm studio light"
               fill
               priority
