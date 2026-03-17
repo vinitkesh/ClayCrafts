@@ -1,0 +1,85 @@
+[
+  {
+    "id": "p1",
+    "slug": "sienna-misted-mug",
+    "name": "Sienna Misted Mug",
+    "price": 34,
+    "image": "/images/products/mug.svg",
+    "category": "Drinkware",
+    "summary": "Wheel-thrown stoneware mug with a warm sand glaze.",
+    "description": "Crafted in small batches, this mug holds a generous pour while staying light in hand. The matte glaze keeps each piece visually soft, with slight variation that makes every mug unique.",
+    "badges": ["Featured", "Best Seller"]
+  },
+  {
+    "id": "p2",
+    "slug": "zenith-planter",
+    "name": "Zenith Planter",
+    "price": 49,
+    "image": "/images/products/planter.svg",
+    "category": "Decor",
+    "summary": "Rounded tabletop planter with a breathable ceramic body.",
+    "description": "Designed for modern shelves and window nooks, the Zenith Planter balances proportion and function with a drainage-ready inner chamber and neutral finish.",
+    "badges": ["New"]
+  },
+  {
+    "id": "p3",
+    "slug": "orbital-sculpture-vase",
+    "name": "Orbital Sculpture Vase",
+    "price": 82,
+    "image": "/images/products/vase.svg",
+    "category": "Vases",
+    "summary": "Sculptural vase built around soft geometry.",
+    "description": "A conversational centerpiece for dining tables and consoles. The Orbital vase is hand-finished to preserve subtle texture across each contour.",
+    "badges": ["Limited"]
+  },
+  {
+    "id": "p4",
+    "slug": "tide-serving-bowl",
+    "name": "Tide Serving Bowl",
+    "price": 58,
+    "image": "/images/products/bowl.svg",
+    "category": "Kitchen",
+    "summary": "Wide serving bowl with a satin interior glaze.",
+    "description": "Made for shared meals, the Tide bowl blends everyday durability with a gallery-inspired profile. Suitable for fruit, salads, and table styling."
+  },
+  {
+    "id": "p5",
+    "slug": "cliff-candle-holder",
+    "name": "Cliff Candle Holder",
+    "price": 29,
+    "image": "/images/products/vase.svg",
+    "category": "Decor",
+    "summary": "Compact taper holder with textured ridges.",
+    "description": "The Cliff holder adds warmth to evening tablescapes. Its ribbed silhouette catches ambient light and creates a soft shadow play."
+  },
+  {
+    "id": "p6",
+    "slug": "harbor-espresso-cup",
+    "name": "Harbor Espresso Cup",
+    "price": 24,
+    "image": "/images/products/mug.svg",
+    "category": "Drinkware",
+    "summary": "Small espresso cup with handcrafted lip detail.",
+    "description": "A tactile daily ritual piece for espresso lovers. The Harbor cup is fired at high temperature for strength and finished with a quiet earth-tone glaze."
+  },
+  {
+    "id": "p7",
+    "slug": "solace-arch-vase",
+    "name": "Solace Arch Vase",
+    "price": 76,
+    "image": "/images/products/vase.svg",
+    "category": "Vases",
+    "summary": "Architectural arch form for tall stems.",
+    "description": "The Solace vase bridges sculpture and utility with an elongated profile, perfect for dried branches, seasonal botanicals, or minimalist arrangements."
+  },
+  {
+    "id": "p8",
+    "slug": "grove-salad-plate",
+    "name": "Grove Salad Plate",
+    "price": 31,
+    "image": "/images/products/bowl.svg",
+    "category": "Kitchen",
+    "summary": "Flat-rim ceramic plate for daily layering.",
+    "description": "Designed to stack cleanly and age beautifully, the Grove plate suits both everyday lunches and weekend hosting."
+  }
+]

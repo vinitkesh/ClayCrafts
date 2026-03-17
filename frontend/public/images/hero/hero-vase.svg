@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d38d54"/>
+      <stop offset="100%" stop-color="#f4c87f"/>
+    </linearGradient>
+    <linearGradient id="vase" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f7e9d4"/>
+      <stop offset="100%" stop-color="#d2b084"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <circle cx="300" cy="760" r="240" fill="#604021" opacity="0.35"/>
+  <ellipse cx="690" cy="760" rx="260" ry="54" fill="#7e5028" opacity="0.38"/>
+  <path d="M640 310c-45 0-72 38-72 88v26c0 35-17 65-29 85-14 24-20 47-20 76 0 83 65 146 158 146 94 0 158-64 158-146 0-29-6-52-20-76-12-20-29-50-29-85v-26c0-50-27-88-72-88h-74z" fill="url(#vase)"/>
+  <path d="M635 352h100m-108 62h115m-121 62h128m-134 62h141m-147 62h154" stroke="#c49457" stroke-width="7" stroke-linecap="round" opacity="0.45"/>
+  <circle cx="666" cy="252" r="10" fill="#7a8744"/>
+  <path d="M666 262v-84" stroke="#657537" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="716" cy="236" r="9" fill="#8c9952"/>
+  <path d="M716 245v-93" stroke="#718040" stroke-width="4" stroke-linecap="round"/>
+</svg>

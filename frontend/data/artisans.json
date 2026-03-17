@@ -1,0 +1,20 @@
+[
+  {
+    "id": "a1",
+    "name": "Elara Vance",
+    "title": "Lead Ceramic Artist",
+    "location": "Jaipur Studio",
+    "image": "/images/artisans/elara.svg",
+    "quote": "Clay is a conversation between rhythm and restraint.",
+    "body": "Elara blends contemporary lines with traditional wheel techniques, focusing on pieces that feel grounded and quietly sculptural. Her practice favors natural pigments and high-fire finishes for long-lasting utility."
+  },
+  {
+    "id": "a2",
+    "name": "Noah Prentice",
+    "title": "Surface & Texture Specialist",
+    "location": "Delhi Workshop",
+    "image": "/images/artisans/noah.svg",
+    "quote": "Texture is where touch becomes memory.",
+    "body": "Noah experiments with brushwork, hand-burnishing, and layered slips to produce tonal variation across every collection. His pieces are known for subtle depth under changing light."
+  }
+]
